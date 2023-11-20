@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Lawyer</title>
+    <title>LAWFIRM</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -39,7 +39,7 @@
                         <div class="col-xl-2 col-lg-2">
                             <div class="logo-img">
                                 <a href="index.html">
-                                    <img src="assets/img/logo.png" alt="">
+                                    <h3 style="color: #fff">LAWFIRM</h3>
                                 </a>
                             </div>
                         </div>

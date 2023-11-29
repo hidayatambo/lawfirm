@@ -51,17 +51,17 @@
                                  <li><a href="/">home</a></li>
                                  <li><a class="/active" href="about">About</a></li>
                                  <li><a href="/practice">Practice Area</a></li>
-                                 <li><a href="#">blog <i class="ti-angle-down"></i></a>
+                                 {{-- <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                      <ul class="submenu">
                                          <li><a href="/artikel">blog</a></li>
                                          <li><a href="/single-blog">single-blog</a></li>
                                      </ul>
-                                 </li>
-                                 <li><a href="#">pages <i class="ti-angle-down"></i></a>
+                                 </li> --}}
+                                 {{-- <li><a href="#">pages <i class="ti-angle-down"></i></a>
                                      <ul class="submenu">
                                          <li><a href="/elements">elements</a></li>
                                      </ul>
-                                 </li>
+                                 </li> --}}
                                  <li><a href="/contact">Contact</a></li>
                              </ul>
                          </nav>

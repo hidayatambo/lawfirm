@@ -52,17 +52,17 @@
                                         <li><a href="/">home</a></li>
                                         <li><a class="/active" href="about">About</a></li>
                                         <li><a href="/practice">Practice Area</a></li>
-                                        <li><a href="#">blog <i class="ti-angle-down"></i></a>
+                                        {{-- <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="/artikel">blog</a></li>
                                                 <li><a href="/single-blog">single-blog</a></li>
                                             </ul>
-                                        </li>
-                                        <li><a href="#">pages <i class="ti-angle-down"></i></a>
+                                        </li> --}}
+                                        {{-- <li><a href="#">pages <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="/elements">elements</a></li>
                                             </ul>
-                                        </li>
+                                        </li> --}}
                                         <li><a href="/contact">Contact</a></li>
                                     </ul>
                                 </nav>
@@ -94,8 +94,8 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="bradcam_text text-center">
-                            <h3>Finest And Strongest Law <br>
-                                Firm Win The World</h3>
+                            <h3>Firma Hukum Terbaik Dan Terkuat
+                                Memenangkan Dunia</h3>
                         </div>
                     </div>
                 </div>
@@ -104,10 +104,10 @@
     </div>
     <!-- bradcam_area_end  -->
     <!-- practice_area_start -->
-    <div class="practice_area practice_area2">
+    <div class="practice_area">
         <div class="container-fluid p-0">
             <div class="row no-gutters">
-                <div class="col-xl-3 col-md-6">
+                <div class="col-xl-4 col-md-6">
                     <div class="single_practice">
                         <div class="practice_image">
                             <img src="assets/img/practice/1.png" alt="">
@@ -115,15 +115,17 @@
                         <div class="practice_hover text-center">
                             <div class="hover_inner">
                                 <i class="flaticon-case"></i>
-                                <h3>Business Law</h3>
-                                <p>There are many variations of passages of <br> Lorem Ipsum available, <br> but the
-                                    majority have suffered</p>
+                                <h3>Medis & Kesehatan</h3>
+                                <p>Kami menyediakan layanan hukum yang komprehensif untuk semua yang terlibat dalam
+                                    industri perawatan kesehatan, seperti menyarankan kontrak kerja perawatan kesehatan,
+                                    perjanjian pemasok medis, akuisisi bisnis perawatan kesehatan, sengketa medis, dll.
+                                </p>
                                 <a href="#" class="lern_more">Learn More</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-6">
+                <div class="col-xl-4 col-md-6">
                     <div class="single_practice">
                         <div class="practice_image">
                             <img src="assets/img/practice/2.png" alt="">
@@ -131,15 +133,16 @@
                         <div class="practice_hover text-center">
                             <div class="hover_inner">
                                 <i class="flaticon-courthouse"></i>
-                                <h3>Finance Law</h3>
-                                <p>There are many variations of passages of <br> Lorem Ipsum available, <br> but the
-                                    majority have suffered</p>
+                                <h3>Ketenagakerjaan</h3>
+                                <p>Layanan kami termasuk tetapi tidak terbatas pada: penyusunan dan negosiasi kontrak
+                                    kerja; perjanjian kerahasiaan; konsultasi dan perjanjian tenaga kerja; konsultasi
+                                    untuk prosedur dan buku pegangan ketenagakerjaan; dan lainnya</p>
                                 <a href="#" class="lern_more">Learn More</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-6">
+                <div class="col-xl-4 col-md-6">
                     <div class="single_practice">
                         <div class="practice_image">
                             <img src="assets/img/practice/3.png" alt="">
@@ -147,15 +150,17 @@
                         <div class="practice_hover text-center">
                             <div class="hover_inner">
                                 <i class="flaticon-judge"></i>
-                                <h3>Family Law</h3>
-                                <p>There are many variations of passages of <br> Lorem Ipsum available, <br> but the
-                                    majority have suffered</p>
+                                <h3>pertambangan</h3>
+                                <p>
+                                    Kami menyediakan konsultasi bisnis pertambangan dalam hal regulasi, konsesi atau IUP
+                                    (izin usaha pertambangan di Indonesia), izin kategori mineral, WIUP (wilayah proyek
+                                    pertambangan), dan sengketa terkait pertambangan, dll.</p>
                                 <a href="#" class="lern_more">Learn More</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-6">
+                <div class="col-xl-4 col-md-6">
                     <div class="single_practice">
                         <div class="practice_image">
                             <img src="assets/img/practice/4.png" alt="">
@@ -163,9 +168,47 @@
                         <div class="practice_hover text-center">
                             <div class="hover_inner">
                                 <i class="flaticon-jury"></i>
-                                <h3>Education Law</h3>
-                                <p>There are many variations of passages of <br> Lorem Ipsum available, <br> but the
-                                    majority have suffered</p>
+                                <h3>HaKI</h3>
+                                <p>Melalui SIP R, SIP Law Firm didedikasikan untuk memberi saran dan membantu klien
+                                    untuk melindungi Kekayaan Intelektual mereka. Kami menyarankan dan membantu klien
+                                    dalam pendaftaran dan memaksimalkan nilai IP termasuk lisensi.</p>
+                                <a href="#" class="lern_more">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6">
+                    <div class="single_practice">
+                        <div class="practice_image">
+                            <img src="assets/img/practice/4.png" alt="">
+                        </div>
+                        <div class="practice_hover text-center">
+                            <div class="hover_inner">
+                                <img src="https://siplawfirm.id/wp-content/uploads/2022/09/profit.png.webp"
+                                    width="35" height="35" alt="" class="mb-2">
+                                <h3>Pasar Modal</h3>
+                                <p>Sebagai salah satu praktisi hukum pasar modal, kami memiliki tim yang berdedikasi
+                                    dalam menangani jasa hukum pasar modal. Kami membantu klien kami dalam melakukan
+                                    IPO, menangani persyaratan hukum dan hal teknis</p>
+                                <a href="#" class="lern_more">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6">
+                    <div class="single_practice">
+                        <div class="practice_image">
+                            <img src="assets/img/practice/4.png" alt="">
+                        </div>
+                        <div class="practice_hover text-center">
+                            <div class="hover_inner">
+                                <img src="https://siplawfirm.id/wp-content/uploads/2022/09/bankruptcy.png.webp"
+                                    width="35" height="35" alt="" class="mb-2">
+                                <h3>Kepailitan</h3>
+                                <p>Kami ahli dalam hukum kepailitan, peraturan dan prosedur pengadilan. Kami memberikan
+                                    nasihat hukum tentang kepailitan dan membantu mereka melalui semua proses, mulai
+                                    dari pengajuan semua persyaratan kebangkrutan hingga mewakili klien di Sidang
+                                    Pailit.</p>
                                 <a href="#" class="lern_more">Learn More</a>
                             </div>
                         </div>
@@ -184,43 +227,20 @@
             <div class="row">
                 <div class="col-xl-6 col-md-6">
                     <div class="single_about_info text-center">
-                        <div class="about_thumb">
-                            <img src="assets/img/about/1.png" alt="">
-                        </div>
-                        <h3>Finest And Strongest Law <br>
-                            Firm Win The World</h3>
-                        <p>There are many variations of passages of Lorem Ipsum <br> available, but the majority have
-                            suffered alteration in <br> some form, by injected humour, or randomised words <br> which
-                            don't look even slightly believable. </p>
-                        <div class="signature">
-                            <img src="assets/img/about/signature.png" alt="">
-                        </div>
+                        <h3>Didukung oleh tim advokat yang profesional di berbagai bidang
+                        </h3>
+                        <p>Hukum Bisnis, Hukum Tata Negara, Hukum Perdata, Hukum Perbankan, Hukum Asuransi, Hukum Waris,
+                            Hukum Pajak, Hukum Properti, Hukum Kepabeanan, Hukum Pasar Modal, Hukum Kepailitan, Hukum
+                            Ketenagakerjaan, Undang-undang Anti-Korupsi, Perlindungan Konsumen dan Pencucian Uang</p>
                     </div>
                 </div>
                 <div class="col-xl-6 col-md-6">
                     <div class="single_about_info text-center">
-                        <div class="about_thumb">
-                            <div class="image_hover">
-                                <div class="hover_inner">
-                                    <h2>93%</h2>
-                                    <span>Success Case</span>
-                                </div>
-                            </div>
-                        </div>
-                        <h3>About Lawyer Justice</h3>
-                        <p>There are many variations of passages of Lorem Ipsum <br> available, but the majority have
-                            suffered alteration in <br> some form, by injected humour, or randomised words <br> which
-                            don't look even slightly believable. </p>
-                        <div class="total_cases">
-                            <div class="single_cases">
-                                <h4>879</h4>
-                                <p>Total Cases</p>
-                            </div>
-                            <div class="single_cases">
-                                <h4>787</h4>
-                                <p>Case Won</p>
-                            </div>
-                        </div>
+                        <br>
+                        <h3>About Lawfirm</h3>
+                        <br>
+                        <p>kantor hukum terdepan yang memberikan solusi inovatif dan komprehensif untuk memenuhi
+                            kebutuhan hukum klien yang berkualitas, berintegritas, dan profesional </p>
                     </div>
                 </div>
             </div>
@@ -236,32 +256,32 @@
                     <div class="testmonial_active owl-carousel">
                         <div class="single_testmonial text-center">
                             <i class="flaticon-straight-quotes"></i>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the <br> majority have suffered alteration in some form, by injected humour, or <br> randomised words which don't look even slightly believable. </p>
+                            <p>Didukung oleh tim advokat yang profesional di berbagai bidang, yaitu: Hukum Bisnis, Hukum
+                                Tata Negara, Hukum Perdata, Hukum Perbankan, Hukum Asuransi, Hukum Waris, Hukum Pajak,
+                                Hukum Properti, Hukum Kepabeanan, Hukum Pasar Modal, Hukum Kepailitan, Hukum
+                                Ketenagakerjaan, Undang-undang Anti-Korupsi, Perlindungan Konsumen dan Pencucian Uang.
+                            </p>
                             <div class="author_info d-flex justify-content-center align-items-center">
-                                <div class="thumb">
-                                    <img src="assets/img/testmonial/smaill_thumb.png" alt="">
-                                </div>
-                                <span>- Millan Mirza</span>
                             </div>
                         </div>
                         <div class="single_testmonial text-center">
                             <i class="flaticon-straight-quotes"></i>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the <br> majority have suffered alteration in some form, by injected humour, or <br> randomised words which don't look even slightly believable. </p>
+                            <p>Didukung oleh tim advokat yang profesional di berbagai bidang, yaitu: Hukum Bisnis, Hukum
+                                Tata Negara, Hukum Perdata, Hukum Perbankan, Hukum Asuransi, Hukum Waris, Hukum Pajak,
+                                Hukum Properti, Hukum Kepabeanan, Hukum Pasar Modal, Hukum Kepailitan, Hukum
+                                Ketenagakerjaan, Undang-undang Anti-Korupsi, Perlindungan Konsumen dan Pencucian Uang.
+                            </p>
                             <div class="author_info d-flex justify-content-center align-items-center">
-                                <div class="thumb">
-                                    <img src="assets/img/testmonial/smaill_thumb.png" alt="">
-                                </div>
-                                <span>- Millan Mirza</span>
                             </div>
                         </div>
                         <div class="single_testmonial text-center">
                             <i class="flaticon-straight-quotes"></i>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the <br> majority have suffered alteration in some form, by injected humour, or <br> randomised words which don't look even slightly believable. </p>
+                            <p>Didukung oleh tim advokat yang profesional di berbagai bidang, yaitu: Hukum Bisnis, Hukum
+                                Tata Negara, Hukum Perdata, Hukum Perbankan, Hukum Asuransi, Hukum Waris, Hukum Pajak,
+                                Hukum Properti, Hukum Kepabeanan, Hukum Pasar Modal, Hukum Kepailitan, Hukum
+                                Ketenagakerjaan, Undang-undang Anti-Korupsi, Perlindungan Konsumen dan Pencucian Uang.
+                            </p>
                             <div class="author_info d-flex justify-content-center align-items-center">
-                                <div class="thumb">
-                                    <img src="assets/img/testmonial/smaill_thumb.png" alt="">
-                                </div>
-                                <span>- Millan Mirza</span>
                             </div>
                         </div>
                     </div>
@@ -276,7 +296,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-5 col-md-6 col-lg-6">
                     <div class="appiontment_thumb d-none d-lg-block">
-                        <img src="assets/img/appointment/1.png" alt="">
+                        <img src="assets/img/lawyers/yoisngaji.png" alt="">
                     </div>
                 </div>
                 <div class="col-xl-6 offset-xl-1 col-md-6 col-md-12 col-lg-6">
@@ -284,33 +304,32 @@
                         <div class="opacity_icon d-none d-lg-block">
                             <i class="flaticon-balance"></i>
                         </div>
-                        <h3>Make an Appointment</h3>
-                        <p>Many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some.</p>
+                        <h3>Membuat Janji</h3>
                         <form action="#">
-                                <div class="row">
-                                    <div class="col-xl-6 col-md-6">
-                                            <input type="text" placeholder="Your Name">
-                                    </div>
-                                    <div class="col-xl-6 col-md-6">
-                                            <input type="email" placeholder="Your Email">
-                                    </div>
-                                    <div class="col-xl-6 col-md-6">
-                                            <input type="text" placeholder="Phone no.">
-                                    </div>
-                                    <div class="col-xl-6 col-md-6">
-                                        <input id="datepicker" placeholder="Appointment date">
-                                    </div>
-                                    <div class="col-xl-12">
-                                        <textarea placeholder="Message" ></textarea>
-                                    </div>
-                                    <div class="col-xl-12">
-                                        <div class="appoinment_button">
-                                            <button class="boxed-btn5 " type="submit" >Submit</button>
-                                        </div>
+                            <div class="row">
+                                <div class="col-xl-6 col-md-6">
+                                    <input type="text" placeholder="Your Name">
+                                </div>
+                                <div class="col-xl-6 col-md-6">
+                                    <input type="email" placeholder="Your Email">
+                                </div>
+                                <div class="col-xl-6 col-md-6">
+                                    <input type="text" placeholder="Phone no.">
+                                </div>
+                                <div class="col-xl-6 col-md-6">
+                                    <input id="datepicker" placeholder="Appointment date">
+                                </div>
+                                <div class="col-xl-12">
+                                    <textarea placeholder="Message"></textarea>
+                                </div>
+                                <div class="col-xl-12">
+                                    <div class="appoinment_button">
+                                        <button class="boxed-btn5 " type="submit">Submit</button>
                                     </div>
                                 </div>
-        
-                            </form>
+                            </div>
+
+                        </form>
                     </div>
 
                 </div>
@@ -326,13 +345,16 @@
                     <div class="col-xl-4 col-md-6 col-lg-3">
                         <div class="footer_widget">
                             <div class="footer_logo">
-                                <a href="index.html">
-                                    <img src="assets/img/logo.png" alt="">
+                                <a href="">
+                                    <h3 style="color: #fff">LAWFIRM</h3>
+                                    {{-- <img src="assets/img/logo.png" alt=""> --}}
                                 </a>
                             </div>
-                            <p class="footer_text">200, A-block, Green road, USA <br>
-                                +10 367 267 2678 <br>
-                                <a class="domain" href="#">lawyer@contact.com</a></p>
+                            <p class="footer_text">The Boutique Office Park Lt. G Unit B-28, Jl. Apron, Kemayoran,
+                                Jakarta Pusat, DKI Jakarta, 10630 <br>
+                                +62 896 9634 6847 <br>
+                                <a class="domain" href="#">yoisangadjilawfirm@gmail.com</a>
+                            </p>
                             <div class="socail_links">
                                 <ul>
                                     <li>
@@ -357,7 +379,7 @@
                     <div class="col-xl-2 col-md-6 col-lg-2">
                         <div class="footer_widget">
                             <h3 class="footer_title">
-                                    Practice Area
+                                Practice Area
                             </h3>
                             <ul>
                                 <li><a href="#">Business law
@@ -371,7 +393,7 @@
                     <div class="col-xl-2 col-md-6 col-lg-2">
                         <div class="footer_widget">
                             <h3 class="footer_title">
-                                    Useful Links
+                                Useful Links
                             </h3>
                             <ul>
                                 <li><a href="#">About</a></li>
@@ -383,7 +405,7 @@
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="footer_widget">
                             <h3 class="footer_title">
-                                    Subscribe
+                                Subscribe
                             </h3>
                             <form action="#" class="newsletter_form">
                                 <input type="text" placeholder="Enter your mail">
@@ -402,8 +424,11 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <!-- Link back to daytime can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://daytime.com" target="_blank">daytime</a>
-<!-- Link back to daytime can't be removed. Template is licensed under CC BY 3.0. -->
+                            Copyright &copy;
+                            <script>
+                                document.write(new Date().getFullYear());
+                            </script> All rights reserved
+                            <!-- Link back to daytime can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
                 </div>
@@ -443,24 +468,24 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="assets/js/main.js"></script>
 
     <script>
-            $('#datepicker').datepicker({
-                iconsLibrary: 'fontawesome',
-                // disableDaysOfWeek: [0, 0],
+        $('#datepicker').datepicker({
+            iconsLibrary: 'fontawesome',
+            // disableDaysOfWeek: [0, 0],
             //     icons: {
             //      rightIcon: '<span class="fa fa-caret-down"></span>'
             //  }
-            });
-            $('#datepicker2').datepicker({
-                iconsLibrary: 'fontawesome',
-                icons: {
-                 rightIcon: '<span class="fa fa-caret-down"></span>'
-             }
-    
-            });
-            var timepicker = $('#timepicker').timepicker({
-             format: 'HH.MM'
-         });
-        </script>
+        });
+        $('#datepicker2').datepicker({
+            iconsLibrary: 'fontawesome',
+            icons: {
+                rightIcon: '<span class="fa fa-caret-down"></span>'
+            }
+
+        });
+        var timepicker = $('#timepicker').timepicker({
+            format: 'HH.MM'
+        });
+    </script>
 </body>
 
 </html>

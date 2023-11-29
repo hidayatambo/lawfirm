@@ -182,7 +182,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="section_title text-center mb-60">
-                        <h3>Our Lawyers</h3>
+                        <h3>Our Team</h3>
                     </div>
                 </div>
             </div>
